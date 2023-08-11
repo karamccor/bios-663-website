@@ -1,5 +1,5 @@
 ---
-title: "STAT 313: Applied Experimental Design and Regression Models"
+title: "BIOS 663"
 tbl-colwidths: [5,10,35,5,5,5,5,5,5]
 ---
 
